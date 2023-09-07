@@ -1,0 +1,5 @@
+Patient_Id,Age,Gender_Male,Gender_Female,Symptom1_Anxiety,Symptom1_Irritable infant,Symptom1_Leg pain,Symptom1_Throat swelling,Symptom2_Depression,Symptom2_Lump in throat,Symptom3_Anxiety,Symptom3_Headache,Symptom3_Shortness of breath,Family History_Diabetes,Family History_Heart Disease,Family History_Stroke,Current Medications_Acarbose,Current Medications_Acebutolol,Current Medications_Aceclidine,Current Medications_Aceclofenac
+1,17,1,0,1,0,0,0,1,0,0,0,1,1,0,0,1,0,0,0
+2,22,0,1,0,0,0,1,0,1,0,1,0,0,0,1,0,1,0,0
+3,41,1,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,1,0
+4,41,0,1,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0,1

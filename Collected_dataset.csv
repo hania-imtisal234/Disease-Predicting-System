@@ -1,0 +1,312 @@
+Disease,Symptom1,Symptom2,Symptom3,Gender,Age,Current Medications,Family History
+Panic disorder,Anxiety,Depression,Shortness of breath,Male,17,Acarbose,Diabetes
+Vocal cord polyp,Throat swelling,Lump in throat,Headache,Female,22,Acebutolol,Stroke
+Turner syndrome,Leg pain,Depression,Headache,Male,41,Aceclidine,Diabetes
+Cryptorchidism,Irritable infant,Depression,Anxiety,Female,41,Aceclofenac,Heart Disease
+Poisoning due to ethylene glycol,Headache,Depression,Nausea,Male,31,Acarbose,Stroke
+Atrophic vaginitis,Frequent urination,Depression,Nausea,Female,67,Acebutolol,Cancer
+Fracture of the hand,Wrist pain,Hand swelling,Headache,Male,87,Aceclidine,Stroke
+Cellulitis or abscess of mouth,Sore throat,Toothache,Anxiety,Female,21,Aceclofenac,Stroke
+Eye alignment disorder,Double Pain in eye,Vomiting,,Male,32,Acarbose,Stroke
+Headache lumbar puncture,Headache,Vomiting,Nausea,Female,51,Acebutolol,Diabetes
+Pyloric stenosis,Sharp abdominal pain,Vomiting,Cough,Male,66,Aceclidine,Stroke
+Salivary gland disorder,Sore throat,Ear pain,Cough,Female,72,Aceclofenac,Stroke
+Osteochondrosis,foot pain,Ankle pain,,Male,45,Acarbose,Heart Disease
+Injury to the knee,Leg pain,Knee swelling,,Female,73,Acebutolol,Cancer
+Metabolic disorder,Weight gain,Smoking,Cough,Male,63,Aceclidine,Stroke
+Vaginitis,Sharp abdominal pain,Vomiting,,Female,88,Aceclofenac,Stroke
+Sick sinus syndrome,Headache,Chest pain,Shortness of breath,Male,61,Acarbose,Stroke
+Tinnitus of unknown cause,Dizziness,Vomiting,,Female,72,Acebutolol,Heart Disease
+Glaucoma,Pain in eye,Ear pain,,Male,54,Aceclidine,Stroke
+Asthma,Anxiety,Chest pain,Cough,Male,14,Aceclidine,Heart Disease
+Teething syndrome,Sore throat,Toothache,Cough,Male,22,Acarbose,Stroke
+Infectious gastroenteritis,Sharp abdominal pain,Vomiting,,Female,90,Acebutolol,Cancer
+Acute sinusitis,Sore throat,Vomiting,Headache,Male,65,Aceclidine,Heart Disease
+Spondylitis,Leg pain,Knee swelling,,Female,41,Aceclofenac,Heart Disease
+Injury to the abdomen,Sharp abdominal pain,Chest pain,Nausea,Female,39,Aceclofenac,Stroke
+Tonsillitis,Sore throat,Lump in throat,Cough,Male,44,Acarbose,Stroke
+Panic disorder,Anxiety,Depression,Shortness of breath,Male,17,Acarbose,Diabetes
+Vocal cord polyp,Throat swelling,Lump in throat,Headache,Female,22,Acebutolol,Stroke
+Turner syndrome,Leg pain,Depression,Headache,Male,41,Aceclidine,Diabetes
+Cryptorchidism,Irritable infant,Depression,Anxiety,Female,41,Aceclofenac,Heart Disease
+Poisoning due to ethylene glycol,Headache,Depression,Nausea,Male,31,Acarbose,Stroke
+Atrophic vaginitis,Frequent urination,Depression,Nausea,Female,67,Acebutolol,Cancer
+Fracture of the hand,Wrist pain,Hand swelling,Headache,Male,87,Aceclidine,Stroke
+Cellulitis or abscess of mouth,Sore throat,Toothache,Anxiety,Female,21,Aceclofenac,Stroke
+Eye alignment disorder,Double Pain in eye,Depression,,Male,32,Acarbose,Stroke
+Headache lumbar puncture,Headache,Vomiting,Nausea,Female,51,Acebutolol,Diabetes
+Pyloric stenosis,Sharp abdominal pain,Vomiting,Cough,Male,66,Aceclidine,Stroke
+Salivary gland disorder,Sore throat,Ear pain,Cough,Female,72,Aceclofenac,Stroke
+Osteochondrosis,foot pain,Ankle pain,,Male,45,Acarbose,Heart Disease
+Injury to the knee,Leg pain,Knee swelling,,Female,73,Acebutolol,Cancer
+Metabolic disorder,Weight gain,Smoking,Cough,Male,63,Aceclidine,Stroke
+Vaginitis,Sharp abdominal pain,Vomiting,,Female,88,Aceclofenac,Stroke
+Sick sinus syndrome,Headache,Chest pain,Shortness of breath,Male,61,Acarbose,Stroke
+Tinnitus of unknown cause,Dizziness,Vomiting,,Female,72,Acebutolol,Heart Disease
+Glaucoma,Pain in eye,Ear pain,,Male,54,Aceclidine,Stroke
+Asthma,Anxiety,Chest pain,Cough,Male,14,Aceclidine,Heart Disease
+Teething syndrome,Sore throat,Toothache,Cough,Male,22,Acarbose,Stroke
+Infectious gastroenteritis,Sharp abdominal pain,Vomiting,,Female,90,Acebutolol,Cancer
+Acute sinusitis,Sore throat,Vomiting,Headache,Male,65,Aceclidine,Heart Disease
+Spondylitis,Leg pain,Knee swelling,,Female,41,Aceclofenac,Heart Disease
+Injury to the abdomen,Sharp abdominal pain,Chest pain,Nausea,Female,39,Aceclofenac,Stroke
+Tonsillitis,Sore throat,Lump in throat,Cough,Male,44,Acarbose,Stroke
+Panic disorder,Anxiety,Depression,Shortness of breath,Male,17,Acarbose,Diabetes
+Vocal cord polyp,Throat swelling,Lump in throat,Headache,Female,22,Acebutolol,Stroke
+Turner syndrome,Leg pain,Depression,Headache,Male,41,Aceclidine,Diabetes
+Cryptorchidism,Irritable infant,Depression,Anxiety,Female,41,Aceclofenac,Heart Disease
+Poisoning due to ethylene glycol,Headache,Depression,Nausea,Male,31,Acarbose,Stroke
+Atrophic vaginitis,Frequent urination,Depression,Nausea,Female,67,Acebutolol,Cancer
+Fracture of the hand,Wrist pain,Hand swelling,Headache,Male,87,Aceclidine,Stroke
+Cellulitis or abscess of mouth,Sore throat,Toothache,Anxiety,Female,21,Aceclofenac,Stroke
+Eye alignment disorder,Double Pain in eye,Ear pain,,Male,32,Acarbose,Stroke
+Headache lumbar puncture,Headache,Vomiting,Nausea,Female,51,Acebutolol,Diabetes
+Pyloric stenosis,Sharp abdominal pain,Vomiting,Cough,Male,66,Aceclidine,Stroke
+Salivary gland disorder,Sore throat,Ear pain,Cough,Female,72,Aceclofenac,Stroke
+Osteochondrosis,foot pain,Ankle pain,,Male,45,Acarbose,Heart Disease
+Injury to the knee,Leg pain,Knee swelling,,Female,73,Acebutolol,Cancer
+Metabolic disorder,Weight gain,Smoking,Cough,Male,63,Aceclidine,Stroke
+Vaginitis,Sharp abdominal pain,Vomiting,,Female,88,Aceclofenac,Stroke
+Sick sinus syndrome,Headache,Chest pain,Shortness of breath,Male,61,Acarbose,Stroke
+Tinnitus of unknown cause,Dizziness,Vomiting,,Female,72,Acebutolol,Heart Disease
+Glaucoma,Pain in eye,Vomiting,,Male,54,Aceclidine,Stroke
+Asthma,Anxiety,Chest pain,Cough,Male,14,Aceclidine,Heart Disease
+Teething syndrome,Sore throat,Toothache,Cough,Male,22,Acarbose,Stroke
+Infectious gastroenteritis,Sharp abdominal pain,Vomiting,,Female,90,Acebutolol,Cancer
+Acute sinusitis,Sore throat,Vomiting,Headache,Male,65,Aceclidine,Heart Disease
+Spondylitis,Leg pain,Knee swelling,,Female,41,Aceclofenac,Heart Disease
+Injury to the abdomen,Sharp abdominal pain,Chest pain,Nausea,Female,39,Aceclofenac,Stroke
+Tonsillitis,Sore throat,Lump in throat,Cough,Male,44,Acarbose,Stroke
+Panic disorder,Anxiety,Depression,Shortness of breath,Male,17,Acarbose,Diabetes
+Vocal cord polyp,Throat swelling,Lump in throat,Headache,Female,22,Acebutolol,Stroke
+Turner syndrome,Leg pain,Depression,Headache,Male,41,Aceclidine,Diabetes
+Cryptorchidism,Irritable infant,Depression,Anxiety,Female,41,Aceclofenac,Heart Disease
+Poisoning due to ethylene glycol,Headache,Depression,Nausea,Male,31,Acarbose,Stroke
+Atrophic vaginitis,Frequent urination,Depression,Nausea,Female,67,Acebutolol,Cancer
+Fracture of the hand,Wrist pain,Hand swelling,Headache,Male,87,Aceclidine,Stroke
+Cellulitis or abscess of mouth,Sore throat,Toothache,Anxiety,Female,21,Aceclofenac,Stroke
+Eye alignment disorder,Double Pain in eye,Vomiting,,Male,32,Acarbose,Stroke
+Headache lumbar puncture,Headache,Vomiting,Nausea,Female,51,Acebutolol,Diabetes
+Pyloric stenosis,Sharp abdominal pain,Vomiting,Cough,Male,66,Aceclidine,Stroke
+Salivary gland disorder,Sore throat,Ear pain,Cough,Female,72,Aceclofenac,Stroke
+Osteochondrosis,foot pain,Ankle pain,,Male,45,Acarbose,Heart Disease
+Injury to the knee,Leg pain,Knee swelling,,Female,73,Acebutolol,Cancer
+Metabolic disorder,Weight gain,Smoking,,Male,63,Aceclidine,Stroke
+Vaginitis,Sharp abdominal pain,Vomiting,,Female,88,Aceclofenac,Stroke
+Sick sinus syndrome,Headache,Chest pain,Shortness of breath,Male,61,Acarbose,Stroke
+Tinnitus of unknown cause,Dizziness,Vomiting,,Female,72,Acebutolol,Heart Disease
+Glaucoma,Pain in eye,Lump in throat,,Male,54,Aceclidine,Stroke
+Asthma,Anxiety,Chest pain,Cough,Male,14,Aceclidine,Heart Disease
+Teething syndrome,Sore throat,Toothache,Cough,Male,22,Acarbose,Stroke
+Infectious gastroenteritis,Sharp abdominal pain,Vomiting,,Female,90,Acebutolol,Cancer
+Acute sinusitis,Sore throat,Vomiting,Headache,Male,65,Aceclidine,Heart Disease
+Spondylitis,Leg pain,Knee swelling,,Female,41,Aceclofenac,Heart Disease
+Injury to the abdomen,Sharp abdominal pain,Chest pain,Nausea,Female,39,Aceclofenac,Stroke
+Tonsillitis,Sore throat,Lump in throat,Cough,Male,44,Acarbose,Stroke
+Panic disorder,Anxiety,Depression,Shortness of breath,Male,17,Acarbose,Diabetes
+Vocal cord polyp,Throat swelling,Lump in throat,Headache,Female,22,Acebutolol,Stroke
+Turner syndrome,Leg pain,Depression,Headache,Male,41,Aceclidine,Diabetes
+Cryptorchidism,Irritable infant,Depression,Anxiety,Female,41,Aceclofenac,Heart Disease
+Poisoning due to ethylene glycol,Headache,Depression,Nausea,Male,31,Acarbose,Stroke
+Atrophic vaginitis,Frequent urination,Depression,Nausea,Female,67,Acebutolol,Cancer
+Fracture of the hand,Wrist pain,Hand swelling,Headache,Male,87,Aceclidine,Stroke
+Cellulitis or abscess of mouth,Sore throat,Toothache,Anxiety,Female,21,Aceclofenac,Stroke
+Eye alignment disorder,Double Pain in eye,Lump in throat,,Male,32,Acarbose,Stroke
+Headache lumbar puncture,Headache,Vomiting,Nausea,Female,51,Acebutolol,Diabetes
+Pyloric stenosis,Sharp abdominal pain,Vomiting,Cough,Male,66,Aceclidine,Stroke
+Salivary gland disorder,Sore throat,Ear pain,Cough,Female,72,Aceclofenac,Stroke
+Osteochondrosis,foot pain,Ankle pain,,Male,45,Acarbose,Heart Disease
+Injury to the knee,Leg pain,Knee swelling,,Female,73,Acebutolol,Cancer
+Metabolic disorder,Weight gain,Smoking,,Male,63,Aceclidine,Stroke
+Vaginitis,Sharp abdominal pain,Knee swelling,,Female,88,Aceclofenac,Stroke
+Sick sinus syndrome,Headache,Chest pain,Shortness of breath,Male,61,Acarbose,Stroke
+Tinnitus of unknown cause,Dizziness,Vomiting,,Female,72,Acebutolol,Heart Disease
+Glaucoma,Pain in eye,Knee swelling,,Male,54,Aceclidine,Stroke
+Asthma,Anxiety,Chest pain,Cough,Male,14,Aceclidine,Heart Disease
+Teething syndrome,Sore throat,Toothache,Cough,Male,22,Acarbose,Stroke
+Infectious gastroenteritis,Sharp abdominal pain,Vomiting,,Female,90,Acebutolol,Cancer
+Acute sinusitis,Sore throat,Vomiting,Headache,Male,65,Aceclidine,Heart Disease
+Spondylitis,Leg pain,Knee swelling,,Female,41,Aceclofenac,Heart Disease
+Injury to the abdomen,Sharp abdominal pain,Chest pain,Nausea,Female,39,Aceclofenac,Stroke
+Tonsillitis,Sore throat,Lump in throat,Cough,Male,44,Acarbose,Stroke
+Panic disorder,Anxiety,Depression,Shortness of breath,Male,17,Acarbose,Diabetes
+Vocal cord polyp,Throat swelling,Lump in throat,Headache,Female,22,Acebutolol,Stroke
+Turner syndrome,Leg pain,Depression,Headache,Male,41,Aceclidine,Diabetes
+Cryptorchidism,Irritable infant,Depression,Anxiety,Female,41,Aceclofenac,Heart Disease
+Poisoning due to ethylene glycol,Headache,Depression,Nausea,Male,31,Acarbose,Stroke
+Atrophic vaginitis,Frequent urination,Depression,Nausea,Female,67,Acebutolol,Cancer
+Fracture of the hand,Wrist pain,Hand swelling,Headache,Male,87,Aceclidine,Stroke
+Cellulitis or abscess of mouth,Sore throat,Toothache,Anxiety,Female,21,Aceclofenac,Stroke
+Eye alignment disorder,Double Pain in eye,Knee swelling,,Male,32,Acarbose,Stroke
+Headache lumbar puncture,Headache,Vomiting,Nausea,Female,51,Acebutolol,Diabetes
+Pyloric stenosis,Sharp abdominal pain,Vomiting,Cough,Male,66,Aceclidine,Stroke
+Salivary gland disorder,Sore throat,Ear pain,Cough,Female,72,Aceclofenac,Stroke
+Osteochondrosis,foot pain,Ankle pain,,Male,45,Acarbose,Heart Disease
+Injury to the knee,Leg pain,Knee swelling,,Female,73,Acebutolol,Cancer
+Metabolic disorder,Weight gain,Smoking,,Male,63,Aceclidine,Stroke
+Vaginitis,Sharp abdominal pain,Chest pain,,Female,88,Aceclofenac,Stroke
+Sick sinus syndrome,Headache,Chest pain,Shortness of breath,Male,61,Acarbose,Stroke
+Tinnitus of unknown cause,Dizziness,Vomiting,,Female,72,Acebutolol,Heart Disease
+Glaucoma,Pain in eye,Chest pain,,Male,54,Aceclidine,Stroke
+Asthma,Anxiety,Chest pain,Cough,Male,14,Aceclidine,Heart Disease
+Teething syndrome,Sore throat,Toothache,Cough,Male,22,Acarbose,Stroke
+Infectious gastroenteritis,Sharp abdominal pain,Vomiting,,Female,90,Acebutolol,Cancer
+Acute sinusitis,Sore throat,Vomiting,Headache,Male,65,Aceclidine,Heart Disease
+Spondylitis,Leg pain,Knee swelling,,Female,41,Aceclofenac,Heart Disease
+Injury to the abdomen,Sharp abdominal pain,Chest pain,Nausea,Female,39,Aceclofenac,Stroke
+Tonsillitis,Sore throat,Lump in throat,Cough,Male,44,Acarbose,Stroke
+Panic disorder,Anxiety,Depression,Shortness of breath,Female,65,Acarbose,Diabetes
+Vocal cord polyp,Throat swelling,Lump in throat,Headache,Male,41,Acebutolol,Stroke
+Turner syndrome,Leg pain,Depression,Headache,Female,39,Aceclidine,Diabetes
+Cryptorchidism,Irritable infant,Depression,Anxiety,Male,44,Aceclofenac,Heart Disease
+Poisoning due to ethylene glycol,Headache,Depression,Nausea,Female,17,Acarbose,Stroke
+Atrophic vaginitis,Frequent urination,Depression,Nausea,Male,22,Acebutolol,Cancer
+Fracture of the hand,Wrist pain,Hand swelling,Headache,Female,41,Aceclidine,Stroke
+Cellulitis or abscess of mouth,Sore throat,Toothache,Anxiety,Male,41,Aceclofenac,Stroke
+Eye alignment disorder,Double Pain in eye,Vomiting,,Female,31,Acarbose,Stroke
+Headache lumbar puncture,Headache,Vomiting,Nausea,Male,67,Acebutolol,Diabetes
+Pyloric stenosis,Sharp abdominal pain,Vomiting,Cough,Female,87,Aceclidine,Stroke
+Salivary gland disorder,Sore throat,Ear pain,Cough,Male,21,Aceclofenac,Stroke
+Osteochondrosis,foot pain,Ankle pain,,Female,32,Acarbose,Heart Disease
+Injury to the knee,Leg pain,Knee swelling,,Male,51,Acebutolol,Cancer
+Metabolic disorder,Weight gain,Smoking,Cough,Female,66,Aceclidine,Stroke
+Vaginitis,Sharp abdominal pain,Vomiting,,Male,72,Aceclofenac,Stroke
+Sick sinus syndrome,Headache,Chest pain,Shortness of breath,Female,45,Acarbose,Stroke
+Tinnitus of unknown cause,Dizziness,Vomiting,,Male,73,Acebutolol,Heart Disease
+Glaucoma,Pain in eye,Ear pain,,Male,63,Aceclidine,Stroke
+Asthma,Anxiety,Chest pain,Cough,Male,88,Aceclidine,Heart Disease
+Teething syndrome,Sore throat,Toothache,Cough,Female,61,Acarbose,Stroke
+Infectious gastroenteritis,Sharp abdominal pain,Vomiting,,Male,72,Acebutolol,Cancer
+Acute sinusitis,Sore throat,Vomiting,Headache,Female,54,Aceclidine,Heart Disease
+Spondylitis,Leg pain,Knee swelling,,Female,14,Aceclofenac,Heart Disease
+Injury to the abdomen,Sharp abdominal pain,Chest pain,Nausea,Male,22,Aceclofenac,Stroke
+Tonsillitis,Sore throat,Lump in throat,Cough,Male,90,Acarbose,Stroke
+Panic disorder,Anxiety,Depression,Shortness of breath,Female,65,Acarbose,Diabetes
+Vocal cord polyp,Throat swelling,Lump in throat,Headache,Male,41,Acebutolol,Stroke
+Turner syndrome,Leg pain,Depression,Headache,Female,39,Aceclidine,Diabetes
+Cryptorchidism,Irritable infant,Depression,Anxiety,Male,44,Aceclofenac,Heart Disease
+Poisoning due to ethylene glycol,Headache,Depression,Nausea,Female,17,Acarbose,Stroke
+Atrophic vaginitis,Frequent urination,Depression,Nausea,Male,22,Acebutolol,Cancer
+Fracture of the hand,Wrist pain,Hand swelling,Headache,Female,41,Aceclidine,Stroke
+Cellulitis or abscess of mouth,Sore throat,Toothache,Anxiety,Male,41,Aceclofenac,Stroke
+Eye alignment disorder,Double Pain in eye,Depression,,Female,31,Acarbose,Stroke
+Headache lumbar puncture,Headache,Vomiting,Nausea,Male,67,Acebutolol,Diabetes
+Pyloric stenosis,Sharp abdominal pain,Vomiting,Cough,Female,87,Aceclidine,Stroke
+Salivary gland disorder,Sore throat,Ear pain,Cough,Male,21,Aceclofenac,Stroke
+Osteochondrosis,foot pain,Ankle pain,,Female,32,Acarbose,Heart Disease
+Injury to the knee,Leg pain,Knee swelling,,Male,51,Acebutolol,Cancer
+Metabolic disorder,Weight gain,Smoking,Cough,Female,66,Aceclidine,Stroke
+Vaginitis,Sharp abdominal pain,Vomiting,,Male,72,Aceclofenac,Stroke
+Sick sinus syndrome,Headache,Chest pain,Shortness of breath,Female,45,Acarbose,Stroke
+Tinnitus of unknown cause,Dizziness,Vomiting,,Male,73,Acebutolol,Heart Disease
+Glaucoma,Pain in eye,Ear pain,,Male,63,Aceclidine,Stroke
+Asthma,Anxiety,Chest pain,Cough,Male,88,Aceclidine,Heart Disease
+Teething syndrome,Sore throat,Toothache,Cough,Female,61,Acarbose,Stroke
+Infectious gastroenteritis,Sharp abdominal pain,Vomiting,,Male,72,Acebutolol,Cancer
+Acute sinusitis,Sore throat,Vomiting,Headache,Female,54,Aceclidine,Heart Disease
+Spondylitis,Leg pain,Knee swelling,,Female,14,Aceclofenac,Heart Disease
+Injury to the abdomen,Sharp abdominal pain,Chest pain,Nausea,Male,22,Aceclofenac,Stroke
+Tonsillitis,Sore throat,Lump in throat,Cough,Male,90,Acarbose,Stroke
+Panic disorder,Anxiety,Depression,Shortness of breath,Female,65,Acarbose,Diabetes
+Vocal cord polyp,Throat swelling,Lump in throat,Headache,Male,41,Acebutolol,Stroke
+Turner syndrome,Leg pain,Depression,Headache,Female,39,Aceclidine,Diabetes
+Cryptorchidism,Irritable infant,Depression,Anxiety,Male,44,Aceclofenac,Heart Disease
+Poisoning due to ethylene glycol,Headache,Depression,Nausea,Female,17,Acarbose,Stroke
+Atrophic vaginitis,Frequent urination,Depression,Nausea,Male,22,Acebutolol,Cancer
+Fracture of the hand,Wrist pain,Hand swelling,Headache,Female,41,Aceclidine,Stroke
+Cellulitis or abscess of mouth,Sore throat,Toothache,Anxiety,Male,41,Aceclofenac,Stroke
+Eye alignment disorder,Double Pain in eye,Ear pain,,Female,31,Acarbose,Stroke
+Headache lumbar puncture,Headache,Vomiting,Nausea,Male,67,Acebutolol,Diabetes
+Pyloric stenosis,Sharp abdominal pain,Vomiting,Cough,Female,14,Aceclidine,Stroke
+Salivary gland disorder,Sore throat,Ear pain,Cough,Male,22,Aceclofenac,Stroke
+Osteochondrosis,foot pain,Ankle pain,,Female,90,Acarbose,Heart Disease
+Injury to the knee,Leg pain,Knee swelling,,Male,65,Acebutolol,Cancer
+Metabolic disorder,Weight gain,Smoking,Cough,Female,41,Aceclidine,Stroke
+Vaginitis,Sharp abdominal pain,Vomiting,,Male,39,Aceclofenac,Stroke
+Sick sinus syndrome,Headache,Chest pain,Shortness of breath,Female,44,Acarbose,Stroke
+Tinnitus of unknown cause,Dizziness,Vomiting,,Male,17,Acebutolol,Heart Disease
+Glaucoma,Pain in eye,Vomiting,,Male,22,Aceclidine,Stroke
+Asthma,Anxiety,Chest pain,Cough,Male,41,Aceclidine,Heart Disease
+Teething syndrome,Sore throat,Toothache,Cough,Female,41,Acarbose,Stroke
+Infectious gastroenteritis,Sharp abdominal pain,Vomiting,,Male,31,Acebutolol,Cancer
+Acute sinusitis,Sore throat,Vomiting,Headache,Female,67,Aceclidine,Heart Disease
+Spondylitis,Leg pain,Knee swelling,,Female,87,Aceclofenac,Heart Disease
+Injury to the abdomen,Sharp abdominal pain,Chest pain,Nausea,Male,21,Aceclofenac,Stroke
+Tonsillitis,Sore throat,Lump in throat,Cough,Male,32,Acarbose,Stroke
+Panic disorder,Anxiety,Depression,Shortness of breath,Female,51,Acarbose,Diabetes
+Vocal cord polyp,Throat swelling,Lump in throat,Headache,Male,66,Acebutolol,Stroke
+Turner syndrome,Leg pain,Depression,Headache,Female,72,Aceclidine,Diabetes
+Cryptorchidism,Irritable infant,Depression,Anxiety,Male,45,Aceclofenac,Heart Disease
+Poisoning due to ethylene glycol,Headache,Depression,Nausea,Female,73,Acarbose,Stroke
+Atrophic vaginitis,Frequent urination,Depression,Nausea,Male,63,Acebutolol,Cancer
+Fracture of the hand,Wrist pain,Hand swelling,Headache,Female,88,Aceclidine,Stroke
+Cellulitis or abscess of mouth,Sore throat,Toothache,Anxiety,Male,61,Aceclofenac,Stroke
+Eye alignment disorder,Double Pain in eye,Vomiting,,Female,72,Acarbose,Stroke
+Headache lumbar puncture,Headache,Vomiting,Nausea,Male,54,Acebutolol,Diabetes
+Pyloric stenosis,Sharp abdominal pain,Vomiting,Cough,Female,14,Aceclidine,Stroke
+Salivary gland disorder,Sore throat,Ear pain,Cough,Male,22,Aceclofenac,Stroke
+Osteochondrosis,foot pain,Ankle pain,,Female,90,Acarbose,Heart Disease
+Injury to the knee,Leg pain,Knee swelling,,Male,65,Acebutolol,Cancer
+Metabolic disorder,Weight gain,Smoking,,Female,41,Aceclidine,Stroke
+Vaginitis,Sharp abdominal pain,Vomiting,,Male,39,Aceclofenac,Stroke
+Sick sinus syndrome,Headache,Chest pain,Shortness of breath,Female,44,Acarbose,Stroke
+Tinnitus of unknown cause,Dizziness,Vomiting,,Male,17,Acebutolol,Heart Disease
+Glaucoma,Pain in eye,Lump in throat,,Male,22,Aceclidine,Stroke
+Asthma,Anxiety,Chest pain,Cough,Male,41,Aceclidine,Heart Disease
+Teething syndrome,Sore throat,Toothache,Cough,Female,41,Acarbose,Stroke
+Infectious gastroenteritis,Sharp abdominal pain,Vomiting,,Male,31,Acebutolol,Cancer
+Acute sinusitis,Sore throat,Vomiting,Headache,Female,67,Aceclidine,Heart Disease
+Spondylitis,Leg pain,Knee swelling,,Female,87,Aceclofenac,Heart Disease
+Injury to the abdomen,Sharp abdominal pain,Chest pain,Nausea,Male,21,Aceclofenac,Stroke
+Tonsillitis,Sore throat,Lump in throat,Cough,Male,32,Acarbose,Stroke
+Panic disorder,Anxiety,Depression,Shortness of breath,Female,51,Acarbose,Diabetes
+Vocal cord polyp,Throat swelling,Lump in throat,Headache,Male,66,Acebutolol,Stroke
+Turner syndrome,Leg pain,Depression,Headache,Female,72,Aceclidine,Diabetes
+Cryptorchidism,Irritable infant,Depression,Anxiety,Male,45,Aceclofenac,Heart Disease
+Poisoning due to ethylene glycol,Headache,Depression,Nausea,Female,73,Acarbose,Stroke
+Atrophic vaginitis,Frequent urination,Depression,Nausea,Male,63,Acebutolol,Cancer
+Fracture of the hand,Wrist pain,Hand swelling,Headache,Female,88,Aceclidine,Stroke
+Cellulitis or abscess of mouth,Sore throat,Toothache,Anxiety,Male,61,Aceclofenac,Stroke
+Eye alignment disorder,Double Pain in eye,Lump in throat,,Female,72,Acarbose,Stroke
+Headache lumbar puncture,Headache,Vomiting,Nausea,Male,54,Acebutolol,Diabetes
+Pyloric stenosis,Sharp abdominal pain,Vomiting,Cough,Female,14,Aceclidine,Stroke
+Salivary gland disorder,Sore throat,Ear pain,Cough,Male,22,Aceclofenac,Stroke
+Osteochondrosis,foot pain,Ankle pain,,Female,90,Acarbose,Heart Disease
+Injury to the knee,Leg pain,Knee swelling,,Male,65,Acebutolol,Cancer
+Metabolic disorder,Weight gain,Smoking,,Female,41,Aceclidine,Stroke
+Vaginitis,Sharp abdominal pain,Knee swelling,,Male,39,Aceclofenac,Stroke
+Sick sinus syndrome,Headache,Chest pain,Shortness of breath,Female,44,Acarbose,Stroke
+Tinnitus of unknown cause,Dizziness,Vomiting,,Male,17,Acebutolol,Heart Disease
+Glaucoma,Pain in eye,Knee swelling,,Male,22,Aceclidine,Stroke
+Asthma,Anxiety,Chest pain,Cough,Male,41,Aceclidine,Heart Disease
+Teething syndrome,Sore throat,Toothache,Cough,Female,41,Acarbose,Stroke
+Infectious gastroenteritis,Sharp abdominal pain,Vomiting,,Male,31,Acebutolol,Cancer
+Acute sinusitis,Sore throat,Vomiting,Headache,Female,67,Aceclidine,Heart Disease
+Spondylitis,Leg pain,Knee swelling,,Female,87,Aceclofenac,Heart Disease
+Injury to the abdomen,Sharp abdominal pain,Chest pain,Nausea,Male,21,Aceclofenac,Stroke
+Tonsillitis,Sore throat,Lump in throat,Cough,Male,32,Acarbose,Stroke
+Panic disorder,Anxiety,Depression,Shortness of breath,Female,51,Acarbose,Diabetes
+Vocal cord polyp,Throat swelling,Lump in throat,Headache,Male,66,Acebutolol,Stroke
+Turner syndrome,Leg pain,Depression,Headache,Female,72,Aceclidine,Diabetes
+Cryptorchidism,Irritable infant,Depression,Anxiety,Male,45,Aceclofenac,Heart Disease
+Poisoning due to ethylene glycol,Headache,Depression,Nausea,Female,73,Acarbose,Stroke
+Atrophic vaginitis,Frequent urination,Depression,Nausea,Male,63,Acebutolol,Cancer
+Fracture of the hand,Wrist pain,Hand swelling,Headache,Female,88,Aceclidine,Stroke
+Cellulitis or abscess of mouth,Sore throat,Toothache,Anxiety,Male,61,Aceclofenac,Stroke
+Eye alignment disorder,Double Pain in eye,Knee swelling,,Female,72,Acarbose,Stroke
+Headache lumbar puncture,Headache,Vomiting,Nausea,Male,54,Acebutolol,Diabetes
+Pyloric stenosis,Sharp abdominal pain,Vomiting,Cough,Female,14,Aceclidine,Stroke
+Salivary gland disorder,Sore throat,Ear pain,Cough,Male,22,Aceclofenac,Stroke
+Osteochondrosis,foot pain,Ankle pain,,Female,90,Acarbose,Heart Disease
+Injury to the knee,Leg pain,Knee swelling,,Male,65,Acebutolol,Cancer
+Metabolic disorder,Weight gain,Smoking,,Female,41,Aceclidine,Stroke
+Vaginitis,Sharp abdominal pain,Chest pain,,Male,39,Aceclofenac,Stroke
+Sick sinus syndrome,Headache,Chest pain,Shortness of breath,Female,44,Acarbose,Stroke
+Tinnitus of unknown cause,Dizziness,Vomiting,,Male,17,Acebutolol,Heart Disease
+Glaucoma,Pain in eye,Chest pain,,Male,22,Aceclidine,Stroke
+Asthma,Anxiety,Chest pain,Cough,Male,41,Aceclidine,Heart Disease
+Teething syndrome,Sore throat,Toothache,Cough,Female,41,Acarbose,Stroke
+Infectious gastroenteritis,Sharp abdominal pain,Vomiting,,Male,31,Acebutolol,Cancer
+Acute sinusitis,Sore throat,Vomiting,Headache,Female,34,Aceclidine,Heart Disease
+Spondylitis,Leg pain,Knee swelling,,Female,56,Aceclofenac,Heart Disease
+Injury to the abdomen,Sharp abdominal pain,Chest pain,Nausea,Male,43,Aceclofenac,Stroke
